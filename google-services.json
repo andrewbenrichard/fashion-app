@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519823716005",
+    "firebase_url": "https://wallpaer-gdevs.firebaseio.com",
+    "project_id": "wallpaer-gdevs",
+    "storage_bucket": "wallpaer-gdevs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519823716005:android:3289fb4e7b77fe8e20a74c",
+        "android_client_info": {
+          "package_name": "com.gdevs.hdwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519823716005-3jsd5cb2so8b8qr76h15adkevd7fqvd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdevs.hdwallpaper",
+            "certificate_hash": "301b86a59fbb00d5e1dd27796790e0efe247dc3e"
+          }
+        },
+        {
+          "client_id": "519823716005-i4divl035r04602fg8ke1n54dngu3dav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0Ooi0EEmhRH8lWs5bKHw3hdXtmsitHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519823716005-i4divl035r04602fg8ke1n54dngu3dav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
